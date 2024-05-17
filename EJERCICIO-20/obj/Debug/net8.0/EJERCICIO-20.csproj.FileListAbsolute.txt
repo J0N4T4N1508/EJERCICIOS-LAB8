@@ -1,0 +1,14 @@
+C:\Users\51946\Desktop\SEMANA-8\LISTAS\EJERCICIO-20\bin\Debug\net8.0\EJERCICIO-20.exe
+C:\Users\51946\Desktop\SEMANA-8\LISTAS\EJERCICIO-20\bin\Debug\net8.0\EJERCICIO-20.deps.json
+C:\Users\51946\Desktop\SEMANA-8\LISTAS\EJERCICIO-20\bin\Debug\net8.0\EJERCICIO-20.runtimeconfig.json
+C:\Users\51946\Desktop\SEMANA-8\LISTAS\EJERCICIO-20\bin\Debug\net8.0\EJERCICIO-20.dll
+C:\Users\51946\Desktop\SEMANA-8\LISTAS\EJERCICIO-20\bin\Debug\net8.0\EJERCICIO-20.pdb
+C:\Users\51946\Desktop\SEMANA-8\LISTAS\EJERCICIO-20\obj\Debug\net8.0\EJERCICIO-20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51946\Desktop\SEMANA-8\LISTAS\EJERCICIO-20\obj\Debug\net8.0\EJERCICIO-20.AssemblyInfoInputs.cache
+C:\Users\51946\Desktop\SEMANA-8\LISTAS\EJERCICIO-20\obj\Debug\net8.0\EJERCICIO-20.AssemblyInfo.cs
+C:\Users\51946\Desktop\SEMANA-8\LISTAS\EJERCICIO-20\obj\Debug\net8.0\EJERCICIO-20.csproj.CoreCompileInputs.cache
+C:\Users\51946\Desktop\SEMANA-8\LISTAS\EJERCICIO-20\obj\Debug\net8.0\EJERCICIO-20.dll
+C:\Users\51946\Desktop\SEMANA-8\LISTAS\EJERCICIO-20\obj\Debug\net8.0\refint\EJERCICIO-20.dll
+C:\Users\51946\Desktop\SEMANA-8\LISTAS\EJERCICIO-20\obj\Debug\net8.0\EJERCICIO-20.pdb
+C:\Users\51946\Desktop\SEMANA-8\LISTAS\EJERCICIO-20\obj\Debug\net8.0\EJERCICIO-20.genruntimeconfig.cache
+C:\Users\51946\Desktop\SEMANA-8\LISTAS\EJERCICIO-20\obj\Debug\net8.0\ref\EJERCICIO-20.dll
